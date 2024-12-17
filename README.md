@@ -1,2 +1,3 @@
 # backup-script
- i created backup screipt for my practice of bash scripting
+
+ i created backup script for my practice of bash scripting. This is my first commit as a Application Operations Engineer. 
